@@ -137,7 +137,7 @@ public class main {
             if (magang_jamKerja > 200)
             {
                 JOptionPane.showMessageDialog(null, "NIP : " + magang_nip + "\nNama : " + magang_nama + "\nPotongan gaji : Rp. - " + "\nGaji akhir : Rp. " + 3_000_000);
-                JOptionPane.showMessageDialog(null, "OVERWORK, INGAT KESEHATAN ANDA!");
+                JOptionPane.showMessageDialog(null, "OVERWORK, JAGA KESEHATAN ANDA!");
             }
         }
        
